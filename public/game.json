@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "title": "PlayerUnknown's Battlegrounds: PUBG",
+    "coverPhoto": "https://i.imgur.com/BFhp9Hh.jpeg",
+    "category": "FPS",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
+    "ratings": "4.5",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Among Us",
+    "coverPhoto": "https://i.imgur.com/uH37Ahq.jpeg",
+    "category": "Party",
+    "downloadLink": "https://www.innersloth.com/gameAmongUs.php",
+    "description": "Among Us is a multiplayer social deduction game where players work together to complete tasks on a spaceship, but impostors aim to sabotage them.",
+    "ratings": "4.2",
+    "developer": "Innersloth"
+  },
+  {
+    "id": "3",
+    "title": "Genshin Impact",
+    "coverPhoto": "https://i.imgur.com/5FaNNJZ.jpeg",
+    "category": "RPG",
+    "downloadLink": "https://genshin.hoyoverse.com/en",
+    "description": "Genshin Impact is an open-world action RPG featuring elemental combat, exploration, and gacha mechanics.",
+    "ratings": "4.7",
+    "developer": "miHoYo"
+  },
+  {
+    "id": "4",
+    "title": "Call of Duty: Mobile",
+    "coverPhoto": "https://i.imgur.com/9TcsTbV.jpeg",
+    "category": "FPS",
+    "downloadLink": "https://www.callofduty.com/mobile",
+    "description": "COD Mobile brings the Call of Duty experience to mobile with fast-paced multiplayer, battle royale, and seasonal events.",
+    "ratings": "4.6",
+    "developer": "Activision"
+  },
+  {
+    "id": "5",
+    "title": "Minecraft",
+    "coverPhoto": "https://images.dwncdn.net/images/t_app-icon-l/p/18daa71a-96d1-11e6-a693-00163ed833e7/2023843893/2099_4-75888122-logo",
+    "category": "Sandbox",
+    "downloadLink": "https://www.minecraft.net/en-us",
+    "description": "Minecraft is a sandbox game where players can build, explore, and survive in a block-based world.",
+    "ratings": "4.8",
+    "developer": "Mojang Studios"
+  },
+  {
+    "id": "6",
+    "title": "Fortnite",
+    "coverPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6i0wwFmBp6gwwdZyqpHMzkmrKh_TFCS4_Og&s",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.epicgames.com/fortnite",
+    "description": "Fortnite is a free-to-play battle royale game featuring building mechanics and vibrant graphics.",
+    "ratings": "4.3",
+    "developer": "Epic Games"
+  },
+  {
+    "id": "7",
+    "title": "League of Legends",
+    "coverPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd42Ia4ljXpfsa0Nsu1uUkZ4KQKhOBl50M1g&s",
+    "category": "MOBA",
+    "downloadLink": "https://na.leagueoflegends.com/en-us/",
+    "description": "League of Legends is a team-based strategy game where players control champions with unique abilities.",
+    "ratings": "4.4",
+    "developer": "Riot Games"
+  },
+  {
+    "id": "8",
+    "title": "Valorant",
+    "coverPhoto": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2023/07/4-12.jpg?fit=1600%2C900&ssl=1",
+    "category": "FPS",
+    "downloadLink": "https://playvalorant.com/",
+    "description": "Valorant is a tactical first-person shooter that combines precise gunplay with unique agent abilities.",
+    "ratings": "4.5",
+    "developer": "Riot Games"
+  },
+  {
+    "id": "9",
+    "title": "Apex Legends",
+    "coverPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqOP_vurag4bWwsFTleXi3tEJnjFrbXmEpw&s",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.ea.com/games/apex-legends",
+    "description": "Apex Legends is a free-to-play battle royale game set in the Titanfall universe, featuring unique characters.",
+    "ratings": "4.6",
+    "developer": "Respawn Entertainment"
+  },
+  {
+    "id": "10",
+    "title": "FIFA 22",
+    "coverPhoto": "https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/8bf055ae-467d-4982-9cab-139833ad5c9c/2548723025/fifa-22-FIFA%2022-3.jpg",
+    "category": "Sports",
+    "downloadLink": "https://www.ea.com/games/fifa/fifa-22",
+    "description": "FIFA 22 brings the world's game to life with advanced gameplay and realistic graphics.",
+    "ratings": "4.3",
+    "developer": "EA Sports"
+  },
+  {
+    "id": "11",
+    "title": "NBA 2K22",
+    "coverPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcSoVcDtbH2BKCY8hyjCYKVm4nxWK9ZtkEPA&s",
+    "category": "Sports",
+    "downloadLink": "https://nba.2k.com/2k22/",
+    "description": "NBA 2K22 offers a realistic basketball experience with updated rosters and improved gameplay.",
+    "ratings": "4.4",
+    "developer": "Visual Concepts"
+  },
+  {
+    "id": "12",
+    "title": "Minecraft Dungeons",
+    "coverPhoto": "https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/da790bef-37c6-4f8f-ae10-0b6acb5580ce/3039535903/minecraft-dungeons-screen-1%20(2).jpg",
+    "category": "Action RPG",
+    "downloadLink": "https://www.minecraft.net/en-us/about-dungeons",
+    "description": "Minecraft Dungeons is an action RPG set in the Minecraft universe, featuring dungeon crawling and loot.",
+    "ratings": "4.2",
+    "developer": "Mojang Studios"
+  },
+  {
+    "id": "13",
+    "title": "Rocket League",
+    "coverPhoto": "https://i.ytimg.com/vi/_5GwIie9QzY/maxresdefault.jpg",
+    "category": "Sports/Action",
+    "downloadLink": "https://www.rocketleague.com/",
+    "description": "Rocket League combines soccer with acrobatic, rocket-powered vehicles.",
+    "ratings": "4.5",
+    "developer": "Psyonix"
+  },
+  {
+    "id": "14",
+    "title": "Hearthstone",
+    "coverPhoto": "https://img.redbull.com/images/c_crop,w_2400,h_1200,x_0,y_102/c_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2018/01/02/44f01918-e382-4d66-8b31-84ddb2d694f5/hearthstone-dungeon-run",
+    "category": "Card Game",
+    "downloadLink": "https://playhearthstone.com/",
+    "description": "Hearthstone is a free-to-play digital collectible card game from Blizzard Entertainment.",
+    "ratings": "4.3",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "id": "15",
+    "title": "World of Warcraft",
+    "coverPhoto": "https://i.ytimg.com/vi/N9RHZ8RlILI/maxresdefault.jpg",
+    "category": "MMORPG",
+    "downloadLink": "https://worldofwarcraft.com/",
+    "description": "World of Warcraft is a massively multiplayer online role-playing game set in the high-fantasy world of Azeroth.",
+    "ratings": "4.6",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "id": "16",
+    "title": "Overwatch",
+    "coverPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPD6FeqE9B4ia_3rgvdsS5CNu0D7wGQm8ASg&s",
+    "category": "FPS",
+    "downloadLink": "https://playoverwatch.com/",
+    "description": "Overwatch is a team-based multiplayer first-person shooter with a diverse cast of heroes.",
+    "ratings": "4.4",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "id": "17",
+    "title": "Counter-Strike: Global Offensive",
+    "coverPhoto": "https://cdn15.idcgames.com/storage/image/1121/thumb_slider/default.jpg",
+    "category": "FPS",
+    "downloadLink": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/",
+    "description": "CS:GO is a multiplayer first-person shooter where teams compete to complete objectives.",
+    "ratings": "4.5",
+    "developer": "Valve"
+  },
+  {
+    "id": "18",
+    "title": "Rainbow Six Siege",
+    "coverPhoto": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4IZecJyhvcIUxxu0Rd1vjX/99fe1a724d46a4d9ca70c76c7a78496f/r6s-homepage-meta__1_.jpg",
+    "category": "Tactical Shooter",
+    "downloadLink": "https://www.ubisoft.com/game/rainbow-six/siege",
+    "description": "Rainbow Six Siege is a tactical shooter where players use strategy and teamwork to complete objectives.",
+    "ratings": "4.3",
+    "developer": "Ubisoft"
+  },
+  {
+    "id": "19",
+    "title": "Dota 2",
+    "coverPhoto": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_616x353.jpg?t=1757000652",
+    "category": "MOBA",
+    "downloadLink": "https://store.steampowered.com/app/570/Dota_2/",
+    "description": "Dota 2 is a multiplayer online battle arena game where two teams of five players compete to destroy the other's base.",
+    "ratings": "4.7",
+    "developer": "Valve"
+  },
+  {
+    "id": "20",
+    "title": "PUBG Mobile",
+    "coverPhoto": "https://images.cnbctv18.com/wp-content/uploads/2020/10/PubG-mobile-1019x573.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a free-to-play battle royale game where players fight to be the last one standing.",
+    "ratings": "4.5",
+    "developer": "Krafton"
+  }
+]
