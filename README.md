@@ -2,7 +2,7 @@ Project name: Game Hub
 
 Purpose: A Game Library , An engaging online library for discovering and supporting game developers. Users can browse indie games, see detailed information, and install if they like them
 
-live URL:https://effulgent-douhua-9e858b.netlify.app/
+live URL:https://statuesque-gelato-84baa0.netlify.app/
 
 key features:
 
